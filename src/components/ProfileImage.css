@@ -1,0 +1,71 @@
+.profile-image-container {
+  display: flex;
+  align-items: center;
+  height: 80vh;
+}
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ccc;
+}
+
+.text-area-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+
+.button-1 {
+  background-color: white; /* Background color */
+  color: black; /* Text color */
+  padding: 10px 20px; /* Padding */
+  border: 2px solid black; /* Remove border */
+  border-radius: 50px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.button-1:hover{
+    background-color: black;
+    color: white;
+}
+
+.button-2 {
+    background-color: black; /* Background color */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding */
+    border: 2px solid black; /* Remove border */
+    border-radius: 50px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition */
+    margin-left: 10px;
+  }
+
+  .button-2:hover{
+    background-color: white;
+    color: black;
+  }
+
+.text-item {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.button-area-1 {
+  margin: 10px 0;
+}
+
+.button-area-2 {
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.github-icon{
+    margin-left: 10px;
+    cursor: pointer;
+}

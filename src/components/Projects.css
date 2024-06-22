@@ -1,0 +1,10 @@
+.main-project-content-area{
+    .main-model{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        font-family: "Poppins", sans-serif;
+        color: rgb(85, 85, 85);
+    }
+}

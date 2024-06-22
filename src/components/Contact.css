@@ -1,0 +1,16 @@
+.contact-page-top-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  color: rgb(85, 85, 85);
+}
+
+.about-me {
+  margin: 0px;
+}
+
+.small-heading {
+  margin: 10px 0;
+}

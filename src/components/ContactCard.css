@@ -1,0 +1,19 @@
+.contactCard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 500px;
+    margin: 16px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+
+  .contact-email-area{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .contact-email-area h3{
+    margin-left: 20px;
+    margin-right: 20px;
+  }

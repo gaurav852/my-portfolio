@@ -1,0 +1,24 @@
+.main-model{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    color: rgb(85, 85, 85);
+}
+
+.about-me{
+    margin: 0px;
+}
+
+.small-heading{
+    margin: 10px 0;
+}
+
+.content-page-area{
+  width: 100%; /* You can adjust this value as needed */
+  max-width: 1100px; /* Adjust the maximum width as necessary */
+  text-align: justify; /* Justify the text to make it uniform */
+  line-height: 1.5; /* Adjust line height for better readability */
+  margin-top: 10px;
+}
